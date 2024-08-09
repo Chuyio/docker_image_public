@@ -1,2 +1,2 @@
-mysql:5.7.44
-ubuntu
+alpine
+tancloud/hertzbeat:latest
