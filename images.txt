@@ -1,2 +1,1 @@
-alpine
-tancloud/hertzbeat:latest
+xiaoyaliu/alist
