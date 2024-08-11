@@ -1,1 +1,1 @@
-haroldli/xiaoya-tvbox:latest
+dreamacro/clash:latest
