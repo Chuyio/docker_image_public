@@ -1,1 +1,1 @@
-mouday/domain-admin
+arm64v8/php:7.4-fpm-alpine
