@@ -1,1 +1,1 @@
-arm64v8/php:7.4-fpm-alpine
+quay.io/tigera/operator:v1.36.5
