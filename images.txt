@@ -1,2 +1,2 @@
-registry.k8s.io/ingress-nginx/controller:v1.11.4
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
+quay.io/metallb/controller:v0.14.9
+quay.io/metallb/speaker:v0.14.9
