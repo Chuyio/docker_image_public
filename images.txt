@@ -1,1 +1,5 @@
-quay.io/tigera/operator:v1.36.5
+docker.io/calico/cni:v3.29.2
+docker.io/calico/cni:v3.29.2
+docker.io/calico/node:v3.29.2
+docker.io/calico/node:v3.29.2
+docker.io/calico/kube-controllers:v3.29.2
