@@ -1,2 +1,1 @@
-quay.io/metallb/controller:v0.14.9
-quay.io/metallb/speaker:v0.14.9
+dyrnq/nfs-subdir-external-provisioner:v4.0.2
