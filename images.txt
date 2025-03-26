@@ -1,1 +1,1 @@
-rancher/fleet-agent:v0.11.4
+rancher/rancher-cleanup:latest
