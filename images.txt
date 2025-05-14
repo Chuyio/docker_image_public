@@ -1,1 +1,1 @@
-yisier1/nps
+ollama/ollama
