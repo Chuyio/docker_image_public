@@ -1,1 +1,3 @@
---platform linux/arm64 dreamacro/clash
+--platform linux/arm64 superng6/qbittorrent
+--platform linux/arm64 yisier1/npc:v0.26.24
+--platform linux/arm64 louislam/dockge
