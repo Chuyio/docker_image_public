@@ -1,1 +1,1 @@
-ollama/ollama
+--platform linux/arm64 dreamacro/clash
