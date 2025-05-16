@@ -1,1 +1,1 @@
---platform linux/arm64 haishanh/yacd:master
+stawky/m3e-large-api:latest
