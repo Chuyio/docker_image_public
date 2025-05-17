@@ -1,1 +1,1 @@
-stawky/m3e-large-api:latest
+--platform linux/arm64 cloudnas/clouddrive2
