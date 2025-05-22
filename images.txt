@@ -1,1 +1,2 @@
---platform linux/arm64 cloudnas/clouddrive2
+composer:2.5
+php:8.1-fpm
