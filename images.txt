@@ -1,1 +1,1 @@
-nginx:1.25-alpine
+--platform linux/arm64 cloudreve/cloudreve
