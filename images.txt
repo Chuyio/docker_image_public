@@ -1,1 +1,1 @@
---platform linux/arm64 cloudreve/cloudreve
+--platform linux/arm64 onething1/wxedge:latest
