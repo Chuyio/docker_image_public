@@ -1,1 +1,2 @@
 --platform linux/arm64 onething1/wxedge:latest
+jenkins/jenkins:2.516.1-lts
